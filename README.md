@@ -35,7 +35,7 @@ A **real-time vehicle tracking system** with theft detection, geofencing, and sp
 - ![JWT](https://img.shields.io/badge/-JWT-red?style=flat&logo=json-web-tokens)  
 
 ### **IoT & Real-time Communication:**  
-- ![ESP32](https://img.shields.io/badge/-ESP8266-blue?style=flat)  
+- ![ESP32](https://img.shields.io/badge/-ESP32-blue?style=flat)  
 - ![SMTP](https://img.shields.io/badge/-MQTT-purple?style=flat&logo=mqtt)  
 
 ### **Maps & Geolocation Services:**  
